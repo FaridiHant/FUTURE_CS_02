@@ -44,7 +44,7 @@ The analysis was strictly non-intrusive, focusing on identifying phishing indica
 
 - **Status:** PHISHING
 - **Overall Risk:** High
-- **Total Indicators Found:** 5
+- **Total Indicators Found:** 4
 
 ---
 
@@ -74,7 +74,7 @@ The analysis was strictly non-intrusive, focusing on identifying phishing indica
 
 ---
 
-**LinkedIn:** https://tz.linkedin.com/in/faridi-hant-60b06b344
+**LinkedIn:** https://tz.linkedin.com/in/faridi-hant-60b06b344   
 **Organization:** https://www.linkedin.com/company/future-interns/
 
 ---
